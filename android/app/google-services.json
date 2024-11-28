@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704694219021",
+    "project_id": "hey2-d4367",
+    "storage_bucket": "hey2-d4367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704694219021:android:0e9c6a0f5a2323215ec044",
+        "android_client_info": {
+          "package_name": "com.example.hey2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmmTyzbGBUgN-lioQJ5JNvnb89FNsBimY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
